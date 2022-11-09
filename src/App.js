@@ -16,18 +16,18 @@ function App() {
           },
         },
         social: {
-          linkedin: 'ariful-alam',
+          linkedin: 'rodgers-butasi-a8b15b11b',
           twitter: 'butasi_',
           facebook: '',
-          instagram: '',
+          instagram: 'butasi_',
           dribbble: '',
           behance: '',
-          medium: 'arifszn',
-          dev: 'arifszn',
+          medium: '',
+          dev: '',
           stackoverflow: '', // format: userid/username
           website: 'https://arifszn.github.io',
           phone: '',
-          email: 'arifulalamszn@gmail.com',
+          email: 'butasi.rodgers@gmail.com',
         },
         resume: {
           fileUrl: '', // Empty fileUrl will hide the `Download Resume` button.
@@ -50,8 +50,8 @@ function App() {
         ],
         experiences: [
           {
-            company: 'Company Name',
-            position: 'Position',
+            company: 'Kenya Forestry Research Institute',
+            position: 'ICT Assisant',
             from: 'September 2021',
             to: 'Present',
             companyLink: 'https://example.com',
