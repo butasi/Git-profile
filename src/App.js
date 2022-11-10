@@ -25,7 +25,7 @@ function App() {
           medium: '',
           dev: '',
           stackoverflow: '', // format: userid/username
-          website: 'https://arifszn.github.io',
+          website: 'https://rodger.vercel.app',
           phone: '',
           email: 'butasi.rodgers@gmail.com',
         },
