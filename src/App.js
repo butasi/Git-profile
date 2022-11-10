@@ -52,36 +52,36 @@ function App() {
           {
             company: 'Kenya Forestry Research Institute',
             position: 'ICT Assisant',
-            from: 'September 2021',
-            to: 'Present',
-            companyLink: 'https://example.com',
+            from: 'July 2018',
+            to: 'October 2018',
+            companyLink: 'https://www.kefri.org',
           },
           {
-            company: 'Company Name',
-            position: 'Position',
-            from: 'July 2019',
-            to: 'August 2021',
-            companyLink: 'https://example.com',
+            company: 'Department for Shipping and Maritime',
+            position: 'ICT Technician',
+            from: 'November 2021',
+            to: 'February 2022',
+            companyLink: 'https://knowledgehub.devolution.go.ke/kh/infrastructure/state-department-for-shipping-and-maritime/',
           },
         ],
         education: [
           {
-            institution: 'Institution Name',
-            degree: 'Degree',
-            from: '2015',
-            to: '2019',
+            institution: 'The Cooperative University of Kenya',
+            degree: 'Information Technology',
+            from: '2017',
+            to: '2018',
           },
           {
-            institution: 'Institution Name',
-            degree: 'Degree',
-            from: '2012',
-            to: '2014',
+            institution: 'The Cooperative University of Kenya',
+            degree: 'Business Information Technology',
+            from: '2019',
+            to: '2022',
           },
         ],
         // Display blog posts from your medium or dev account. (Optional)
         blog: {
           source: 'dev', // medium | dev
-          username: 'arifszn', // to hide blog section, keep it empty
+          username: '', // to hide blog section, keep it empty
           limit: 3, // How many posts to display. Max is 10.
         },
         googleAnalytics: {
@@ -93,7 +93,7 @@ function App() {
           snippetVersion: 6,
         },
         themeConfig: {
-          defaultTheme: 'business',
+          defaultTheme: 'dark',
 
           // Hides the switch in the navbar
           // Useful if you want to support a single color mode
