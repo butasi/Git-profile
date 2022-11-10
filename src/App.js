@@ -26,7 +26,7 @@ function App() {
           dev: '',
           stackoverflow: '', // format: userid/username
           website: 'https://rodger.vercel.app',
-          phone: '',
+          phone: '0111791797',
           email: 'butasi.rodgers@gmail.com',
         },
         resume: {
@@ -34,18 +34,18 @@ function App() {
         },
         skills: [
           'PHP',
-          'Laravel',
+          'CodeIgniter',
           'JavaScript',
           'React.js',
           'Node.js',
-          'Nest.js',
+          'Next.js',
           'MySQL',
-          'PostgreSQL',
+          'Arduino',
           'Git',
           'Docker',
-          'PHPUnit',
+          'C++',
           'CSS',
-          'Antd',
+          'Linux',
           'Tailwind',
         ],
         experiences: [
